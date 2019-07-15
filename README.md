@@ -1,1 +1,1 @@
-# mcaf-terraform-aws-directoryservice
+# terraform-aws-mcaf-directoryservice
