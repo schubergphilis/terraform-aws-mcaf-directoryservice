@@ -1,4 +1,4 @@
-resource "aws_directory_service_directory" "default" {
+resource aws_directory_service_directory default {
   name     = var.name
   password = var.password
   edition  = var.edition
